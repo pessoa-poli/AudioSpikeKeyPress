@@ -1,0 +1,3 @@
+numpy>=1.24
+soundcard>=0.4.3
+pynput>=1.7.6
